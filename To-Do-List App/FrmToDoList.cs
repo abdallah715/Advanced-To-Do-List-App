@@ -69,8 +69,7 @@ namespace To_Do_List_App
         }
         private void EditProperites()
         {
-            btnAddTask.Enabled = true;
-            btnDeleteTask.Enabled = true;
+            
             dgvtodolist.Visible = true;
             lblNoTasks.Visible = false;
             dgvtodolist.Columns[0].Visible = false;
@@ -99,8 +98,7 @@ namespace To_Do_List_App
             {
                 lblNoTasks.Visible = true;
                 dgvtodolist.Visible = false;
-                btnAddTask.Enabled = false;
-                btnDeleteTask.Enabled = false;
+               
             }
         }
         private void Form1_Load(object sender, EventArgs e)
