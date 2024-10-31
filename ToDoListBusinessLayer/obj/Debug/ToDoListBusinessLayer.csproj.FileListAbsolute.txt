@@ -1,0 +1,9 @@
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\bin\Debug\ToDoListBusinessLayer.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\bin\Debug\ToDoListBusinessLayer.pdb
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\bin\Debug\ToDoListDataAccessLayer.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\bin\Debug\ToDoListDataAccessLayer.pdb
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\obj\Debug\ToDoListBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\obj\Debug\ToDoListBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\obj\Debug\ToDoList.EADA8E84.Up2Date
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\obj\Debug\ToDoListBusinessLayer.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListBusinessLayer\obj\Debug\ToDoListBusinessLayer.pdb

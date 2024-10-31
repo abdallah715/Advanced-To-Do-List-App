@@ -1,0 +1,18 @@
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\To-Do-List App.exe.config
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\To-Do-List App.exe
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\To-Do-List App.pdb
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\Guna.UI2.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To-Do-List App.csproj.AssemblyReference.cache
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To-Do-List App.csproj.GenerateResource.cache
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To-Do-List App.csproj.CoreCompileInputs.cache
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To-Do-Li.53810232.Up2Date
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To-Do-List App.exe
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To-Do-List App.pdb
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\ToDoListBusinessLayer.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\ToDoListDataAccessLayer.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\ToDoListBusinessLayer.pdb
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\bin\Debug\ToDoListDataAccessLayer.pdb
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To_Do_List_App.FrmMainToDoListScreen.resources
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To_Do_List_App.frmCategories.resources
+C:\Users\Abd-Allah\source\repos\To-Do-List App\To-Do-List App\obj\Debug\To_Do_List_App.frmPomodoroTimer.resources

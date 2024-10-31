@@ -1,0 +1,6 @@
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListDataAccessLayer\bin\Debug\ToDoListDataAccessLayer.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListDataAccessLayer\bin\Debug\ToDoListDataAccessLayer.pdb
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListDataAccessLayer\obj\Debug\ToDoListDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListDataAccessLayer\obj\Debug\ToDoListDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListDataAccessLayer\obj\Debug\ToDoListDataAccessLayer.dll
+C:\Users\Abd-Allah\source\repos\To-Do-List App\ToDoListDataAccessLayer\obj\Debug\ToDoListDataAccessLayer.pdb
